@@ -1,6 +1,6 @@
 "use strict";
 
-/Mission 1/;
+/Mission 1/
 let username = "Ilya", balance = 5001;
 
 if (username === "admin") {
